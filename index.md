@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+<div style="font-size: 144pt; text-align: center;">
+&#128683;
+</div>
+<div style="font-size: 72pt; text-align: center;">
+MUTE YOUR FUCKING MIC
+</div>
